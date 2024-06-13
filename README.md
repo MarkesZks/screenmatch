@@ -10,11 +10,19 @@
 <h4 align="center"></h4>
 
 <p align="center">
+    <a href="#Sobre o projeto">Como utilizar</a> •
   <a href="#Como utilizar">Como utilizar</a> •
   <a href="#Tecnologias">Tecnologias</a> •
   <a href="#Como Contribuir">Como Contribuir</a> •
   <a href="#Colaboradores">Colaboradores</a> •
 </p>
+
+## Sobre o projeto
+
+Projeto desenvolvido durante formação "Aprenda a programar em Java com Orientação a Objetos" da escola de programação Alura.<br>
+<a href='https://cursos.alura.com.br/user/MarkesZks/degree-java-568827/certificate'>
+        Clique aqui para ver o certificado
+</a>
 
 
 ## **🌟** Como utilizar
